@@ -1,0 +1,21 @@
+#   1 NUMBER                 Running object number                                     
+#   2 XMIN_IMAGE             Minimum x-coordinate among detected pixels                 [pixel]
+#   3 YMIN_IMAGE             Minimum y-coordinate among detected pixels                 [pixel]
+#   4 XMAX_IMAGE             Maximum x-coordinate among detected pixels                 [pixel]
+#   5 YMAX_IMAGE             Maximum y-coordinate among detected pixels                 [pixel]
+#   6 X_IMAGE                Object position along x                                    [pixel]
+#   7 Y_IMAGE                Object position along y                                    [pixel]
+#   8 X2_IMAGE               Variance along x                                           [pixel**2]
+#   9 Y2_IMAGE               Variance along y                                           [pixel**2]
+         1       1869        944       1915        991   1896.1403    965.2579   1.1954422565e+02   1.2816533556e+02
+         2        766       1079        849       1163    805.6776   1122.4277   3.2921394525e+02   3.6057510778e+02
+         3        244       1606        326       1688    283.3335   1649.8734   3.4344819411e+02   3.7072045407e+02
+         4       1975       2216       2046       2288   2008.4089   2254.2427   2.3693575092e+02   2.7125143046e+02
+         5        602       3436        688       3520    643.3195   3479.0015   3.1404496249e+02   3.3350600991e+02
+         6         33          2       2080       4621    771.6786   2560.8770   8.8821780318e+05   2.1492358611e+06
+         7        245       4014        337       4109    287.5074   4062.6096   3.8016413119e+02   3.9166479949e+02
+         8       1252       4384       1312       4441   1277.7716   4415.9150   1.9325768934e+02   2.2515532172e+02
+         9       1276       3945       1341       4007   1306.8060   3977.0740   2.1388963132e+02   2.3422147367e+02
+        10        442       3883        532       3973    486.6886   3929.5442   3.5236204095e+02   3.6622748725e+02
+        11        604       3853        684       3932    640.9476   3893.6338   3.0777139604e+02   3.3002262594e+02
+        12       2095       3836       2104       3864   2099.2717   3850.1479   6.2381830389e+00   4.6569538050e+01

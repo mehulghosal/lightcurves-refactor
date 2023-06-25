@@ -1,0 +1,20 @@
+#   1 NUMBER                 Running object number                                     
+#   2 XMIN_IMAGE             Minimum x-coordinate among detected pixels                 [pixel]
+#   3 YMIN_IMAGE             Minimum y-coordinate among detected pixels                 [pixel]
+#   4 XMAX_IMAGE             Maximum x-coordinate among detected pixels                 [pixel]
+#   5 YMAX_IMAGE             Maximum y-coordinate among detected pixels                 [pixel]
+#   6 X_IMAGE                Object position along x                                    [pixel]
+#   7 Y_IMAGE                Object position along y                                    [pixel]
+#   8 X2_IMAGE               Variance along x                                           [pixel**2]
+#   9 Y2_IMAGE               Variance along y                                           [pixel**2]
+         1       1338        256       1401        321   1371.7029    287.8969   2.2413977822e+02   2.3108801202e+02
+         2       1677        504       1733        558   1706.1753    531.1951   1.6639425511e+02   1.6297146129e+02
+         3       1423       1362       1494       1433   1460.6797   1396.4974   2.7229284200e+02   2.7438295117e+02
+         4       1850       1919       1915       1980   1884.6854   1947.8884   2.5325721577e+02   2.5039956154e+02
+         5        434       2356        442       2385    439.6414   2370.8892   3.7772880672e+00   4.5053050164e+01
+         6        567       3155        632       3219    601.6422   3186.8125   2.5455113448e+02   2.4634347168e+02
+         7       1598       3313       1730       3446   1670.8242   3382.1646   4.0577261329e+02   4.1953650481e+02
+         8       1731       3357       1747       3391   1738.1782   3372.5088   1.4043511611e+01   6.1311615205e+01
+         9        783       3441        842       3498    814.4334   3468.0247   1.9315124501e+02   1.7932306928e+02
+        10         33          3       2080       4610    682.9937   3018.8318   6.9166211525e+05   2.3563952156e+06
+        11        648       4515        702       4568    673.7888   4543.4761   1.5466900757e+02   1.5106221940e+02

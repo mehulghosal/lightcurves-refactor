@@ -1,0 +1,20 @@
+#   1 NUMBER                 Running object number                                     
+#   2 XMIN_IMAGE             Minimum x-coordinate among detected pixels                 [pixel]
+#   3 YMIN_IMAGE             Minimum y-coordinate among detected pixels                 [pixel]
+#   4 XMAX_IMAGE             Maximum x-coordinate among detected pixels                 [pixel]
+#   5 YMAX_IMAGE             Maximum y-coordinate among detected pixels                 [pixel]
+#   6 X_IMAGE                Object position along x                                    [pixel]
+#   7 Y_IMAGE                Object position along y                                    [pixel]
+#   8 X2_IMAGE               Variance along x                                           [pixel**2]
+#   9 Y2_IMAGE               Variance along y                                           [pixel**2]
+         1        585        316        600       1020    592.4288    669.8007   9.1095719220e+00   4.1248874814e+04
+         2        316        125        337        834    326.2529    480.1778   1.0663907416e+01   4.1277928589e+04
+         3       1056        504       1074       1211   1064.1135    859.2279   1.0609902582e+01   4.1339494639e+04
+         4        624        739        639       1443    631.4426   1092.4039   9.2695226818e+00   4.0430643614e+04
+         5       1028       2657       1040       3202   1033.7358   2927.3689   4.7222015277e+00   2.2884356046e+04
+         6       1745       2504       1761       3204   1752.6428   2853.8647   1.0613289703e+01   4.0600603795e+04
+         7        153       2884        175       3588    163.1003   3237.1240   9.9499073589e+00   4.0672396704e+04
+         8       1026       3204       1032       3355   1028.6843   3284.1904   1.0975566336e+00   1.7397157331e+03
+         9        600       3604        614       4304    606.7686   3955.0867   8.6195415658e+00   4.0418595418e+04
+        10       1652       3855       1670       4555   1660.6748   4205.0190   9.9516507027e+00   4.0386045458e+04
+        11         33          2       2080       4611    689.5886   2176.2275   8.0479155749e+05   2.3384024413e+06

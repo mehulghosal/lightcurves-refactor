@@ -1,0 +1,20 @@
+#   1 NUMBER                 Running object number                                     
+#   2 XMIN_IMAGE             Minimum x-coordinate among detected pixels                 [pixel]
+#   3 YMIN_IMAGE             Minimum y-coordinate among detected pixels                 [pixel]
+#   4 XMAX_IMAGE             Maximum x-coordinate among detected pixels                 [pixel]
+#   5 YMAX_IMAGE             Maximum y-coordinate among detected pixels                 [pixel]
+#   6 X_IMAGE                Object position along x                                    [pixel]
+#   7 Y_IMAGE                Object position along y                                    [pixel]
+#   8 X2_IMAGE               Variance along x                                           [pixel**2]
+#   9 Y2_IMAGE               Variance along y                                           [pixel**2]
+         1       1173       1372       1195       1933   1183.3268   1651.7241   7.0185284873e+00   2.5430887483e+04
+         2       1411       1504       1425       2059   1417.7996   1781.6758   5.4208699892e+00   2.5357238284e+04
+         3       1545       1888       1559       2443   1551.9738   2165.3074   5.5711613615e+00   2.5303088645e+04
+         4       1034       2093       1049       2649   1041.1761   2370.1484   5.7549844771e+00   2.5362451115e+04
+         5       1325       2127       1336       2677   1330.3862   2400.6973   4.2400643411e+00   2.5109284942e+04
+         6        892       2142        932       2723    912.2646   2432.5586   9.7637549213e+00   2.5352064187e+04
+         7       1272       3255       1283       3803   1277.7114   3520.3411   4.6781312086e+00   2.5487912960e+04
+         8       1242       3448       1255       4000   1248.1443   3725.7329   5.6407790917e+00   2.5502003502e+04
+         9       2055          2       2080       4611   2077.4885   2434.2874   5.4122565807e+00   1.9124498848e+06
+        10         33          2         67       4611     37.8622   2326.3501   1.4355948830e+01   1.7908619601e+06
+        11       1112       4370       1124       4611   1118.1536   4490.8013   4.0017736923e+00   4.7725729805e+03

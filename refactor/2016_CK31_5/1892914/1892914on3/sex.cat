@@ -1,0 +1,20 @@
+#   1 NUMBER                 Running object number                                     
+#   2 XMIN_IMAGE             Minimum x-coordinate among detected pixels                 [pixel]
+#   3 YMIN_IMAGE             Minimum y-coordinate among detected pixels                 [pixel]
+#   4 XMAX_IMAGE             Maximum x-coordinate among detected pixels                 [pixel]
+#   5 YMAX_IMAGE             Maximum y-coordinate among detected pixels                 [pixel]
+#   6 X_IMAGE                Object position along x                                    [pixel]
+#   7 Y_IMAGE                Object position along y                                    [pixel]
+#   8 X2_IMAGE               Variance along x                                           [pixel**2]
+#   9 Y2_IMAGE               Variance along y                                           [pixel**2]
+         1       1583          2       1593        331   1587.7952    166.4025   2.9901892407e+00   8.8514039786e+03
+         2       1743       1062       1757       1618   1750.1925   1340.4047   6.4982780754e+00   2.5397316679e+04
+         3       1953       1458       1965       2012   1958.5146   1735.1284   6.2930035848e+00   2.5484258941e+04
+         4        275       2538        279       2645    276.8347   2592.9233   8.0781037695e-01   9.1515589001e+02
+         5        397       3275        409       3828    403.3752   3549.3464   5.4501865776e+00   2.5263516046e+04
+         6        206       3848        229       4407    217.4733   4127.2593   7.7246283444e+00   2.5284229493e+04
+         7       2054          2       2080       4611   2077.9041   2381.5300   4.5977004539e+00   1.8611857361e+06
+         8       1506       4252       1515       4611   1510.7327   4431.5815   3.5046901203e+00   1.0632218126e+04
+         9         33          2         70       4611     37.6534   2335.1138   1.3184190235e+01   1.7934601370e+06
+        10        287       4294        294       4536    290.2544   4417.2642   1.9177959708e+00   5.0478568555e+03
+        11       1183       4421       1191       4611   1187.3702   4515.2715   1.8044289717e+00   3.0057650617e+03

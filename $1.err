@@ -1,0 +1,632 @@
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+slurmstepd: error: *** JOB 43938768 ON node-0167 CANCELLED AT 2023-06-04T19:40:30 DUE TO TIME LIMIT ***
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+slurmstepd: error: *** JOB 43938829 ON node-0167 CANCELLED AT 2023-06-04T20:30:00 DUE TO TIME LIMIT ***
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+slurmstepd: error: *** JOB 43939993 ON lmem-0004 CANCELLED AT 2023-06-04T20:33:30 DUE TO TIME LIMIT ***
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+slurmstepd: error: *** JOB 43940125 ON lmem-0004 CANCELLED AT 2023-06-04T20:34:00 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43940292 ON lmem-0005 CANCELLED AT 2023-06-04T20:34:30 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43940319 ON lmem-0004 CANCELLED AT 2023-06-04T20:34:30 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43940293 ON lmem-0005 CANCELLED AT 2023-06-04T20:34:30 DUE TO TIME LIMIT ***
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+slurmstepd: error: *** JOB 43940323 ON lmem-0005 CANCELLED AT 2023-06-04T20:35:00 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43940324 ON lmem-0004 CANCELLED AT 2023-06-04T20:35:00 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43940330 ON lmem-0004 CANCELLED AT 2023-06-04T20:35:00 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43940332 ON lmem-0004 CANCELLED AT 2023-06-04T20:35:30 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43940335 ON lmem-0004 CANCELLED AT 2023-06-04T20:35:30 DUE TO TIME LIMIT ***
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+slurmstepd: error: *** JOB 43940337 ON lmem-0004 CANCELLED AT 2023-06-04T20:36:00 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43940339 ON lmem-0004 CANCELLED AT 2023-06-04T20:36:30 DUE TO TIME LIMIT ***
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+slurmstepd: error: *** JOB 43940350 ON lmem-0004 CANCELLED AT 2023-06-04T20:41:00 DUE TO TIME LIMIT ***
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+slurmstepd: error: *** JOB 43940362 ON node-0142 CANCELLED AT 2023-06-04T20:48:30 DUE TO TIME LIMIT ***
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+slurmstepd: error: *** JOB 43940365 ON lmem-0005 CANCELLED AT 2023-06-04T20:50:00 DUE TO TIME LIMIT ***
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+slurmstepd: error: *** JOB 43940370 ON lmem-0004 CANCELLED AT 2023-06-04T20:51:30 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43940371 ON lmem-0002 CANCELLED AT 2023-06-04T20:52:00 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43940372 ON lmem-0004 CANCELLED AT 2023-06-04T20:52:00 DUE TO TIME LIMIT ***
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+slurmstepd: error: *** JOB 43940448 ON lmem-0004 CANCELLED AT 2023-06-04T21:29:00 DUE TO TIME LIMIT ***
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+slurmstepd: error: *** JOB 43940458 ON lmem-0005 CANCELLED AT 2023-06-04T21:31:30 DUE TO TIME LIMIT ***
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+slurmstepd: error: *** JOB 43940492 ON lmem-0001 CANCELLED AT 2023-06-04T21:41:30 DUE TO TIME LIMIT ***
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+slurmstepd: error: *** JOB 43940498 ON node-0103 CANCELLED AT 2023-06-04T21:43:00 DUE TO TIME LIMIT ***
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+slurmstepd: error: *** JOB 43940582 ON node-0174 CANCELLED AT 2023-06-04T22:08:01 DUE TO TIME LIMIT ***
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+slurmstepd: error: *** JOB 43940608 ON lmem-0001 CANCELLED AT 2023-06-04T22:13:31 DUE TO TIME LIMIT ***
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+slurmstepd: error: *** JOB 43941152 ON lmem-0001 CANCELLED AT 2023-06-04T22:28:31 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43941160 ON node-0167 CANCELLED AT 2023-06-04T22:30:31 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43941174 ON lmem-0004 CANCELLED AT 2023-06-04T22:35:01 DUE TO TIME LIMIT ***
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+slurmstepd: error: *** JOB 43941216 ON lmem-0004 CANCELLED AT 2023-06-04T22:47:01 DUE TO TIME LIMIT ***
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+slurmstepd: error: *** JOB 43941239 ON lmem-0005 CANCELLED AT 2023-06-04T22:53:01 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43941268 ON lmem-0004 CANCELLED AT 2023-06-04T23:01:31 DUE TO TIME LIMIT ***
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+slurmstepd: error: *** JOB 43941277 ON lmem-0004 CANCELLED AT 2023-06-04T23:03:31 DUE TO TIME LIMIT ***
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+Traceback (most recent call last):
+  File "./new_magic.py", line 870, in <module>
+    s_std        = np.std(stars[:,0])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+slurmstepd: error: *** JOB 43941543 ON lmem-0005 CANCELLED AT 2023-06-05T00:16:01 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43941571 ON lmem-0004 CANCELLED AT 2023-06-05T00:21:31 DUE TO TIME LIMIT ***
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+slurmstepd: error: *** JOB 43941697 ON lmem-0004 CANCELLED AT 2023-06-05T00:42:01 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43941698 ON lmem-0004 CANCELLED AT 2023-06-05T00:42:01 DUE TO TIME LIMIT ***
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+slurmstepd: error: *** JOB 43942219 ON lmem-0005 CANCELLED AT 2023-06-05T02:33:01 DUE TO TIME LIMIT ***
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+slurmstepd: error: *** JOB 43942350 ON lmem-0005 CANCELLED AT 2023-06-05T03:11:01 DUE TO TIME LIMIT ***
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/home/mehul/.local/lib/python3.6/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+slurmstepd: error: *** JOB 43942784 ON node-0133 CANCELLED AT 2023-06-05T04:23:31 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43942813 ON node-0125 CANCELLED AT 2023-06-05T04:25:31 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43942839 ON node-0167 CANCELLED AT 2023-06-05T04:25:31 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43942865 ON lmem-0001 CANCELLED AT 2023-06-05T04:29:31 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 43942905 ON node-0167 CANCELLED AT 2023-06-05T04:39:31 DUE TO TIME LIMIT ***

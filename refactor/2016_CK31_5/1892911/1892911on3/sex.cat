@@ -1,0 +1,21 @@
+#   1 NUMBER                 Running object number                                     
+#   2 XMIN_IMAGE             Minimum x-coordinate among detected pixels                 [pixel]
+#   3 YMIN_IMAGE             Minimum y-coordinate among detected pixels                 [pixel]
+#   4 XMAX_IMAGE             Maximum x-coordinate among detected pixels                 [pixel]
+#   5 YMAX_IMAGE             Maximum y-coordinate among detected pixels                 [pixel]
+#   6 X_IMAGE                Object position along x                                    [pixel]
+#   7 Y_IMAGE                Object position along y                                    [pixel]
+#   8 X2_IMAGE               Variance along x                                           [pixel**2]
+#   9 Y2_IMAGE               Variance along y                                           [pixel**2]
+         1        346        585        358       1001    351.8954    791.6265   4.8258739433e+00   1.4120321029e+04
+         2        267        127        292        695    279.9318    410.9524   1.0177046794e+01   2.5926150035e+04
+         3        459          2        468        108    463.3884     53.9212   2.8616530813e+00   9.1896937024e+02
+         4       1568        535       1582       1093   1575.8859    815.2134   7.5002208361e+00   2.5737497587e+04
+         5        352        445        359        583    355.1454    514.5729   1.4346326194e+00   1.5951696370e+03
+         6         85       1017         99       1574     92.5013   1300.6080   6.4995192938e+00   2.5778839489e+04
+         7       1321       1091       1335       1648   1328.4678   1370.2262   7.4722696895e+00   2.5460335347e+04
+         8       1237        706       1266       1656   1252.0151   1366.3542   1.1333374525e+01   2.7925974548e+04
+         9        989       1888       1005       2445    997.9053   2166.9343   7.6491629274e+00   2.5467619266e+04
+        10       2056          2       2080       4611   2078.4395   2406.5056   3.8396830836e+00   1.8578384682e+06
+        11         33          2         64       4611     37.2041   2335.4385   1.0629496385e+01   1.7956923159e+06
+        12        831       4424        838       4611    834.1833   4518.0806   2.0843853922e+00   2.9302709270e+03

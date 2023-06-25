@@ -1,0 +1,19 @@
+#   1 NUMBER                 Running object number                                     
+#   2 XMIN_IMAGE             Minimum x-coordinate among detected pixels                 [pixel]
+#   3 YMIN_IMAGE             Minimum y-coordinate among detected pixels                 [pixel]
+#   4 XMAX_IMAGE             Maximum x-coordinate among detected pixels                 [pixel]
+#   5 YMAX_IMAGE             Maximum y-coordinate among detected pixels                 [pixel]
+#   6 X_IMAGE                Object position along x                                    [pixel]
+#   7 Y_IMAGE                Object position along y                                    [pixel]
+#   8 X2_IMAGE               Variance along x                                           [pixel**2]
+#   9 Y2_IMAGE               Variance along y                                           [pixel**2]
+         1        467        541        496       1249    479.6209    894.9082   1.3828517307e+01   4.0569787454e+04
+         2       1226       1356       1247       2058   1235.7596   1707.4531   1.1613513919e+01   4.0514131817e+04
+         3        816       1694        832       2398    823.4963   2064.3398   1.0228688191e+01   4.1326215621e+04
+         4        554       3239        564       3807    558.8838   3518.9233   4.7483900545e+00   2.5851610105e+04
+         5        552       3809        557       3935    554.3444   3874.1296   8.8262183242e-01   1.2186895420e+03
+         6       2055          2       2080       4611   2078.0042   2374.6841   4.3035443627e+00   1.7824986196e+06
+         7         33          2         66       4611     37.5475   2327.6375   1.2389501608e+01   1.7926766062e+06
+         8       1427       4327       1436       4611   1431.9056   4470.8384   2.1761424953e+00   6.5950939726e+03
+         9       1379       4289       1391       4611   1384.6870   4451.3379   2.8811135564e+00   8.5458740955e+03
+        10        987       4594       1009       4611    998.4371   4605.0229   4.0608922259e+01   1.8841046468e+01

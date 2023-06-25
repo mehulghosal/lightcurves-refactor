@@ -1,0 +1,16 @@
+#   1 NUMBER                 Running object number                                     
+#   2 XMIN_IMAGE             Minimum x-coordinate among detected pixels                 [pixel]
+#   3 YMIN_IMAGE             Minimum y-coordinate among detected pixels                 [pixel]
+#   4 XMAX_IMAGE             Maximum x-coordinate among detected pixels                 [pixel]
+#   5 YMAX_IMAGE             Maximum y-coordinate among detected pixels                 [pixel]
+#   6 X_IMAGE                Object position along x                                    [pixel]
+#   7 Y_IMAGE                Object position along y                                    [pixel]
+#   8 X2_IMAGE               Variance along x                                           [pixel**2]
+#   9 Y2_IMAGE               Variance along y                                           [pixel**2]
+         1       2075          2       2080        984   2078.6511    496.2229   1.5457296649e+00   8.0266393208e+04
+         2        794       1506        808       2060    800.2916   1781.3353   4.9366078174e+00   2.5329251282e+04
+         3        119       2653        129       3204    123.3318   2924.9807   4.1380808186e+00   2.4778103838e+04
+         4        791       3329        828       3902    809.0985   3616.7351   1.0210937939e+01   2.5335487360e+04
+         5       1608       3661       1632       4221   1619.8335   3940.7229   8.5800430946e+00   2.5282278282e+04
+         6       2056        986       2080       4611   2078.4009   2859.0576   4.4691534066e+00   1.1668678917e+06
+         7         33          2         65       4611     37.1818   2324.8142   1.0435675971e+01   1.7944438510e+06

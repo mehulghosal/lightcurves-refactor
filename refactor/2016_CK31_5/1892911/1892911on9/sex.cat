@@ -1,0 +1,19 @@
+#   1 NUMBER                 Running object number                                     
+#   2 XMIN_IMAGE             Minimum x-coordinate among detected pixels                 [pixel]
+#   3 YMIN_IMAGE             Minimum y-coordinate among detected pixels                 [pixel]
+#   4 XMAX_IMAGE             Maximum x-coordinate among detected pixels                 [pixel]
+#   5 YMAX_IMAGE             Maximum y-coordinate among detected pixels                 [pixel]
+#   6 X_IMAGE                Object position along x                                    [pixel]
+#   7 Y_IMAGE                Object position along y                                    [pixel]
+#   8 X2_IMAGE               Variance along x                                           [pixel**2]
+#   9 Y2_IMAGE               Variance along y                                           [pixel**2]
+         1        920         27        935        580    928.4072    305.4680   8.8835120556e+00   2.5887618872e+04
+         2        949          2        966        388    957.7975    192.3372   7.9302750388e+00   1.2175544042e+04
+         3       1264       1103       1311       1696   1288.0648   1402.0406   1.3646482428e+01   2.5457130714e+04
+         4        862       1158        875       1710    869.4896   1434.1022   7.3291579993e+00   2.5102819685e+04
+         5       1149       1186       1167       1742   1158.6704   1463.8536   9.2463961247e+00   2.5333269723e+04
+         6        636       1394        656       1951    646.5026   1672.4935   9.8338470861e+00   2.5325289900e+04
+         7        770       1778        787       2332    778.6960   2054.9070   8.1965157792e+00   2.5067116895e+04
+         8        996       1900       1029       2466   1012.6061   2183.2183   1.1877790770e+01   2.5372920229e+04
+         9       2055          2       2080       4611   2078.4431   2353.0850   3.6952042092e+00   1.8380457728e+06
+        10         33          2         65       4611     37.2571   2322.6514   1.0812257828e+01   1.7856618060e+06

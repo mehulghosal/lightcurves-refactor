@@ -1,0 +1,20 @@
+#   1 NUMBER                 Running object number                                     
+#   2 XMIN_IMAGE             Minimum x-coordinate among detected pixels                 [pixel]
+#   3 YMIN_IMAGE             Minimum y-coordinate among detected pixels                 [pixel]
+#   4 XMAX_IMAGE             Maximum x-coordinate among detected pixels                 [pixel]
+#   5 YMAX_IMAGE             Maximum y-coordinate among detected pixels                 [pixel]
+#   6 X_IMAGE                Object position along x                                    [pixel]
+#   7 Y_IMAGE                Object position along y                                    [pixel]
+#   8 X2_IMAGE               Variance along x                                           [pixel**2]
+#   9 Y2_IMAGE               Variance along y                                           [pixel**2]
+         1       1890        797       1980        886   1934.1006    840.5319   4.4845961604e+02   4.3161039488e+02
+         2        921       1656       1007       1741    964.3745   1696.8157   3.7673698984e+02   3.8715154683e+02
+         3       2002       1758       2058       1815   2032.1729   1785.4935   2.5782586730e+02   2.4315761371e+02
+         4        726       1990        813       2078    769.1547   2034.3043   3.8047850822e+02   4.0053787238e+02
+         5       1124       2235       1195       2305   1160.2599   2269.3220   3.2301268300e+02   3.6564550440e+02
+         6       1741       2928       1822       3014   1781.2194   2969.4087   3.8778320228e+02   4.3869675992e+02
+         7        111       3240        203       3330    154.9921   3286.3284   4.0232728927e+02   4.1186013167e+02
+         8        200       3446        221       3468    210.0921   3456.7258   2.1337043017e+01   2.4101458628e+01
+         9        162       3480        186       3505    174.1797   3492.8157   2.5760280182e+01   3.0636572694e+01
+        10         33          3       2080       4610    674.6965   3027.0569   6.8432346889e+05   2.3349359045e+06
+        11        901       4083        972       4161    936.3275   4121.0254   3.2681103845e+02   3.7579022250e+02

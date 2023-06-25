@@ -1,0 +1,20 @@
+#   1 NUMBER                 Running object number                                     
+#   2 XMIN_IMAGE             Minimum x-coordinate among detected pixels                 [pixel]
+#   3 YMIN_IMAGE             Minimum y-coordinate among detected pixels                 [pixel]
+#   4 XMAX_IMAGE             Maximum x-coordinate among detected pixels                 [pixel]
+#   5 YMAX_IMAGE             Maximum y-coordinate among detected pixels                 [pixel]
+#   6 X_IMAGE                Object position along x                                    [pixel]
+#   7 Y_IMAGE                Object position along y                                    [pixel]
+#   8 X2_IMAGE               Variance along x                                           [pixel**2]
+#   9 Y2_IMAGE               Variance along y                                           [pixel**2]
+         1       1887          2       1903        271   1895.6046    133.8700   5.9034852808e+00   5.8932586461e+03
+         2       1528        789       1550       1354   1539.5994   1071.8682   8.4988142948e+00   2.5760061952e+04
+         3        245       1664        256       2220    251.0714   1941.6428   4.4639593046e+00   2.5231968583e+04
+         4        605       2554        621       3108    613.3629   2836.0735   7.6984167999e+00   2.5749216578e+04
+         5       1214       2616       1226       3170   1220.8806   2893.2756   5.2356674683e+00   2.5397539745e+04
+         6       1127       3997       1138       4548   1133.1227   4273.0796   4.9380014630e+00   2.4854366532e+04
+         7       2055          2       2080       4611   2078.4263   2394.7231   3.9548184855e+00   1.8482240524e+06
+         8         33          2         64       4611     37.1569   2339.8940   1.0374940915e+01   1.7890880329e+06
+         9       1958       4527       1965       4611   1961.4901   4569.2148   1.7673251922e+00   5.8233144413e+02
+        10        519       4363        527       4611    522.7560   4487.2837   2.2097879614e+00   5.1046256894e+03
+        11        231       4535        237       4611    233.4581   4573.3032   1.1644931565e+00   4.6303947891e+02
